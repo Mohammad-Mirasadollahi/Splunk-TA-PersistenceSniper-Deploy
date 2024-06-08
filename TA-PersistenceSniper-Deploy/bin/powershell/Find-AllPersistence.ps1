@@ -1,0 +1,1 @@
+Find-AllPersistence -OutputCSV C:\Windows\Logs\Find-AllPersistence.csv
