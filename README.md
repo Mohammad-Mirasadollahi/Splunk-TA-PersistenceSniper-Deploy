@@ -14,6 +14,6 @@ and then copy them into the directory \Persistence Detection\Files\TA-Persistenc
 Then, deploy the addon again from the splunk deplyment server.
 
 
-Source:
+Source of PersistenceSniper:
 
 https://github.com/last-byte/PersistenceSniper
