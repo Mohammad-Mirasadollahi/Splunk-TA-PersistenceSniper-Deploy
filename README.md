@@ -10,7 +10,7 @@ Note: Your addon name must be "TA-PersistenceSniper-Deploy"
 # Update the Persistence techniques
 To update, simply go to the URL https://github.com/last-byte/PersistenceSniper/tree/main/PersistenceSniper, 
 download the two files PersistenceSniper.psd1 and PersistenceSniper.psm1, 
-and then copy them into the directory \Persistence Detection\Files\TA-PersistenceSniper-Deploy\bin\powershell within the TA-PersistenceSniper-Deploy addon.  
+and then copy them into the directory TA-PersistenceSniper-Deploy\bin\powershell within the TA-PersistenceSniper-Deploy addon.  
 Then, deploy the addon again from the splunk deplyment server.
 
 
